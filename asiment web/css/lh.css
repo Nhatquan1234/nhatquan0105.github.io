@@ -1,0 +1,101 @@
+body{
+    background-color:gray;
+}
+.logo img{
+    width: 300px;
+    height: 100px;
+}
+.menu2{
+    background: #532f11;
+    height: 45px;
+    width: 100%;
+}
+.menu2> a {
+    float: left;
+    font-size: x-large;
+    padding-left: 30px;
+    margin: 8px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu2>a:visited { 
+    color: white;}
+.menu2>a:hover { 
+        color: #d79239;
+}
+.gach{
+    max-width: 10m;
+     margin: 1px;
+     
+    }
+.gach footer{
+    color: #d79239;
+    border-top:5px double white;
+    line-height:30px;
+    font-size: large;
+    text-align:center;
+    font-variant:small-caps;
+    clear:both;
+    background-color:#532f11;
+    font-weight: bold;
+    padding: 25px;
+}
+.gach footer a{
+    text-decoration: none;
+    color:white;
+}
+.icon img{
+    width: 2%;
+    margin: 5px;
+    border-radius: 15px;
+}
+.no1{
+    margin: 10px 0px ;
+}
+.no1 label{
+    font-variant: small-caps;
+    font-weight: bold;
+}
+.no5 label{
+    font-variant: small-caps;
+    font-weight: bold;
+}
+.no5>input{
+    background-color: yellow;
+    font-variant: small-caps;
+    font-weight: bold;
+    margin: 10px 0px ;
+}
+.no2{
+    font-size: large;
+    display: block;
+    width: 25%;
+    border-radius: 5px;
+    height: 1,5vw; 
+}
+.no6{
+    font-size: large;
+    display: block;
+    width: 50%;
+    border-radius: 5px; 
+    height: 10vw;
+}
+.no3{
+    font-size: large;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color:white;
+    color:orangered;
+    box-shadow:inset 0px 0px 10px blue;
+    width: 7vw;
+    height: 3vw;
+}
+.no3:hover{
+    color: blue; 
+    box-shadow: inset 0px 0px 20px yellow;
+}
+h1{
+    color: yellow;
+}

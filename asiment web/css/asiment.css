@@ -1,0 +1,125 @@
+body{
+    background-color:white;
+}
+.logo img{
+    width: 300px;
+    height: 100px;
+}
+.menu2{
+    background: #532f11;
+    height: 45px;
+    width: 100%;
+}
+.menu2> a {
+    float: left;
+    font-size: x-large;
+    padding-left: 30px;
+    margin: 8px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu2>a:visited { 
+    color: white;}
+.menu2>a:hover { 
+        color: #d79239;
+    }
+img{
+    width: 100%;
+    
+}
+img:hover{
+    box-shadow: 10px 5px 80px #d79239;
+    
+}
+.menu1{
+    background: #532f11;
+    height: 45px;
+    
+}
+iframe{
+    float: left;
+    width: 35vw;
+    margin: 40px 5.5vw 0px 8vw;
+    height: 18vw;
+    border-radius: 10px;
+    padding-bottom: 1px;
+}
+.menu1  ul{
+    float:none;
+    font-size: x-large;
+    padding-left: 55px;
+    margin: 8px;
+    color: white;
+    text-align: center;
+    margin: -1px;
+    padding: 9px;
+    
+}
+.column{
+    float: right;
+    margin-right: 100px;
+    padding-right: 40px;
+}
+
+
+.column1{
+    width: 19%;
+    height: 330px;
+    border: 1px solid #532f11;
+    float: left;
+    padding: 10px;
+    margin: 40px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.column1 img{
+    width: 100%;
+    height: 290px;
+}
+.column1>img:hover{
+    box-shadow: 10px 5px 80px gray;
+    width: 101%;
+    height: 295px;
+}
+.san-pham .ten{
+    font-size: larger;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+.san-pham .gia{
+    color:black;
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+}
+.gach{
+    max-width: 10m;
+     margin: 1px;
+    }
+.gach footer{
+    text-align: center;
+    width: 100%;
+    color: #d79239;
+    border-top:5px double white;
+    line-height:30px;
+    font-size: large;
+    font-variant:small-caps;
+    clear:both;
+    background-color:#532f11;
+    font-weight: bold;
+    padding: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gach footer a{
+    text-decoration: none;
+    color:white;
+}
+.icon img{
+    width: 2%;
+    margin: 5px;
+    border-radius: 15px;
+}

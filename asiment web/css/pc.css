@@ -1,0 +1,76 @@
+body{
+    background-color:white;
+}
+.logo img{
+    width: 300px;
+    height: 100px;
+}
+.menu2{
+    background: #532f11;
+    height: 45px;
+    width: 100%;
+}
+.menu2> a {
+    float: left;
+    font-size: x-large;
+    padding-left: 30px;
+    margin: 8px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu2>a:visited { 
+    color: white;}
+.menu2>a:hover { 
+        color: #d79239;
+    }
+h1{
+    font-size: 45px;
+    text-align: center;
+    color: #d79239;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    margin-left: 40px;
+    color: #d79239;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hinh img{
+    width: 50% ;
+    height: 550px;
+    float: none;
+    padding-left: 25%;
+    margin: 10px;
+}
+.gach{
+    max-width: 10m;
+     margin: 1px;
+     
+    }
+.gach footer{
+    color: #d79239;
+    border-top:5px double white;
+    line-height:30px;
+    font-size: large;
+    text-align:center;
+    font-variant:small-caps;
+    clear:both;
+    background-color:#532f11;
+    font-weight: bold;
+    padding: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gach footer a{
+    text-decoration: none;
+    color:white;
+}
+.icon img{
+    width: 2%;
+    margin: 5px;
+    border-radius: 15px;
+}
